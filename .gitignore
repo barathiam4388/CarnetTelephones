@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Java
+*.class
+
+# Maven/Gradle (si un jour tu ajoutes)
+target/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
